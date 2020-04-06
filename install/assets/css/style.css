@@ -1,0 +1,141 @@
+/* === Common Style === */
+@font-face {
+	font-family:'Asap';
+	font-style:normal;
+	font-weight:700;
+	src:local('Asap Bold'),local(Asap-Bold),url(../fonts/Asap-Bold.woff2) format("woff2")
+}
+
+body {
+	background:#f5f5f5;
+	font-family:'Asap',sans-serif;
+	font-size:13px
+}
+
+.divider {
+	border-bottom:1px solid #eee;
+	margin:40px 0 20px;
+	padding-bottom:9px
+}
+
+.margin {
+	margin:10px 0 40px
+}
+
+.red {
+	color:red
+}
+
+.green {
+	color:green
+}
+
+.alert {
+margin:20px auto
+}
+
+/* === Header Section === */
+.app_title {
+	width:100%;
+	padding:20px 0;
+	background:#4983C3;
+	text-align:center;
+	color:#fff;
+	border-bottom:10px solid #6AA5E7
+}
+
+.app_title h1 {
+	margin:0;
+	font-size:44px
+}
+
+.app_title img {
+	width:44px
+}
+
+.title {
+	padding:10px 0;
+	margin:0;
+	font-size:20px;
+	background:#F6931E;
+	color:#fff
+}
+
+/* === Main Section === */
+.app_content {
+	padding:50px;
+	background:#fff;
+	border:1px solid #ccc
+}
+
+.app_content table th {
+	font-size:16px
+}
+
+
+/* === Footer Section === */
+.app_footer {
+	width:100%;
+	padding:20px 0;
+	background:#4983C3;
+	text-align:center;
+	color:#fff;
+	border-top:10px solid #6AA5E7
+}
+
+.app_footer h3 {
+	margin:0;
+	font-size:30px
+}
+
+/*====Button Style====*/
+button[type=submit] {
+	border:none;
+	-webkit-box-shadow:0 3px 1px 0 #6AA5E7;
+	-moz-box-shadow:0 3px 1px 0 #6AA5E7;
+	box-shadow:0 3px 1px 0 #6AA5E7
+}
+
+.cbtn {
+	min-width:100px;
+	font-size:20px;
+	padding:1px 10px;
+	background:#4983C3;
+	color:#fff;
+	text-align:center;
+	text-decoration:none;
+	border-radius:6px;
+	-webkit-box-shadow:0 3px 1px 0 #6AA5E7;
+	-moz-box-shadow:0 3px 1px 0 #6AA5E7;
+	box-shadow:0 3px 1px 0 #6AA5E7
+}
+
+.cbtn:hover {
+	text-decoration:none;
+	color:#fff
+}
+
+.cbtn:active {
+	-webkit-box-shadow:0 1px 1px 0 #6AA5E7;
+	-moz-box-shadow:0 1px 1px 0 #6AA5E7;
+	box-shadow:0 1px 1px 0 #6AA5E7
+}
+
+@media screen and (max-width:400px) {
+	.cbtn {
+		font-size:14px
+	}
+}
+
+/*====Table Style====*/
+table .alert {
+	margin:0!important
+}
+
+table .cwidth {
+	width:80px
+}
+
+table th {
+	word-break:break-all!important
+}

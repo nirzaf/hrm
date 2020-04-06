@@ -1,0 +1,25 @@
+{
+	"name" : "bdtask/ci-installer",
+	"type" : "project",
+	"description" : "Codeigniter application installer - codeigniter version 2.x and 3.x supported",
+	"keywords" : ["codeigniter", "installer"],
+	"version" : "1.0.0",
+	"homepage": "http://www.bdtask.com/",
+	"minimum-stability": "stable",
+
+ 	"authors": [
+        {
+            "name": "bdtask",
+            "email": "bdtask@gmail.com", 
+            "role": "Developer"
+        } 
+    ],
+
+    "require": {
+        "php": ">=5.3.7"
+    },
+    
+	"autoload": {
+	  "psr-4": {"Php\\": "php/"}
+	} 
+} 

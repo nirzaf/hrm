@@ -1,0 +1,106 @@
+[12-Jul-2017 11:09:51 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/helpers/lang_helper.php on line 34
+[12-Jul-2017 11:09:59 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/helpers/lang_helper.php on line 34
+[12-Jul-2017 11:10:09 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/helpers/lang_helper.php on line 34
+[12-Jul-2017 11:10:33 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/helpers/lang_helper.php on line 34
+[12-Jul-2017 11:10:39 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/helpers/lang_helper.php on line 34
+[12-Jul-2017 11:13:31 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/helpers/lang_helper.php on line 34
+[12-Jul-2017 11:14:34 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/helpers/lang_helper.php on line 34
+[12-Jul-2017 11:14:36 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/helpers/lang_helper.php on line 34
+[13-Jul-2017 04:12:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/softest8bdtask/public_html/hrm/application/modules/attendance/controllers/Home.php on line 259
+[13-Jul-2017 04:15:16 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/softest8bdtask/public_html/hrm/application/modules/attendance/controllers/Home.php on line 69
+[13-Jul-2017 09:02:22 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/softest8bdtask/public_html/hrm/application/modules/attendance/controllers/Home.php on line 104
+[13-Jul-2017 09:02:51 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/softest8bdtask/public_html/hrm/application/modules/attendance/controllers/Home.php on line 104
+[13-Jul-2017 09:02:54 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/softest8bdtask/public_html/hrm/application/modules/attendance/controllers/Home.php on line 104
+[13-Jul-2017 09:03:00 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/softest8bdtask/public_html/hrm/application/modules/attendance/controllers/Home.php on line 104
+[13-Jul-2017 09:32:54 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/softest8bdtask/public_html/hrm/application/modules/attendance/controllers/Home.php on line 107
+[13-Jul-2017 11:18:13 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/employee/models/Employees_model.php on line 67
+[13-Jul-2017 11:19:14 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/employee/models/Employees_model.php on line 67
+[13-Jul-2017 11:22:18 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/employee/models/Employees_model.php on line 67
+[13-Jul-2017 11:23:58 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/employee/models/Employees_model.php on line 67
+[13-Jul-2017 11:24:21 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/employee/models/Employees_model.php on line 67
+[13-Jul-2017 11:25:05 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/employee/models/Employees_model.php on line 67
+[13-Jul-2017 11:25:24 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/employee/models/Employees_model.php on line 67
+[13-Jul-2017 11:25:31 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/employee/models/Employees_model.php on line 67
+[13-Jul-2017 11:28:36 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/employee/models/Employees_model.php on line 67
+[13-Jul-2017 11:29:53 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/employee/models/Employees_model.php on line 67
+[13-Jul-2017 11:30:15 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/employee/models/Employees_model.php on line 67
+[15-Jul-2017 06:52:15 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/employee/models/Employees_model.php on line 67
+[15-Jul-2017 09:30:54 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/attendance/models/Csv_model.php on line 122
+[15-Jul-2017 09:31:03 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/attendance/models/Csv_model.php on line 122
+[16-Jul-2017 12:32:46 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/softest8bdtask/public_html/hrm/application/modules/circularprocess/views/selection_form.php on line 31
+[16-Jul-2017 12:32:55 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/softest8bdtask/public_html/hrm/application/modules/circularprocess/views/selection_form.php on line 31
+[19-Jul-2017 08:05:21 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/payroll/models/Payroll_model.php on line 62
+[19-Jul-2017 08:10:14 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/payroll/models/Payroll_model.php on line 62
+[20-Jul-2017 08:57:01 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/softest8bdtask/public_html/hrm/application/modules/attendance/views/manage_attendance.php on line 36
+[20-Jul-2017 08:57:09 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/softest8bdtask/public_html/hrm/application/modules/attendance/views/manage_attendance.php on line 36
+[20-Jul-2017 08:58:17 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/softest8bdtask/public_html/hrm/application/modules/attendance/views/manage_attendance.php on line 36
+[20-Jul-2017 08:58:21 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/softest8bdtask/public_html/hrm/application/modules/attendance/views/manage_attendance.php on line 36
+[20-Jul-2017 08:59:11 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/softest8bdtask/public_html/hrm/application/modules/attendance/views/manage_attendance.php on line 36
+[20-Jul-2017 08:59:17 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/softest8bdtask/public_html/hrm/application/modules/attendance/views/manage_attendance.php on line 36
+[22-Jul-2017 08:32:12 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/softest8bdtask/public_html/hrm/application/modules/leave/views/update_wkleave_form.php on line 20
+[22-Jul-2017 08:32:16 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/softest8bdtask/public_html/hrm/application/modules/leave/views/update_wkleave_form.php on line 20
+[22-Jul-2017 10:27:08 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::row_result() in /home/softest8bdtask/public_html/hrm/application/modules/leave/models/Leave_model.php on line 53
+[22-Jul-2017 10:31:59 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::row_result() in /home/softest8bdtask/public_html/hrm/application/modules/leave/models/Leave_model.php on line 53
+[22-Jul-2017 10:32:02 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::row_result() in /home/softest8bdtask/public_html/hrm/application/modules/leave/models/Leave_model.php on line 53
+[22-Jul-2017 12:47:08 UTC] PHP Fatal error:  Cannot use [] for reading in /home/softest8bdtask/public_html/hrm/application/modules/leave/views/update_wkleave_form.php on line 46
+[22-Jul-2017 12:47:35 UTC] PHP Fatal error:  Cannot use [] for reading in /home/softest8bdtask/public_html/hrm/application/modules/leave/views/update_wkleave_form.php on line 38
+[22-Jul-2017 12:47:42 UTC] PHP Fatal error:  Cannot use [] for reading in /home/softest8bdtask/public_html/hrm/application/modules/leave/views/update_wkleave_form.php on line 38
+[23-Jul-2017 04:33:14 UTC] PHP Fatal error:  Unsupported operand types in /home/softest8bdtask/public_html/hrm/application/modules/leave/controllers/Leave.php on line 43
+[23-Jul-2017 04:33:21 UTC] PHP Fatal error:  Unsupported operand types in /home/softest8bdtask/public_html/hrm/application/modules/leave/controllers/Leave.php on line 43
+[23-Jul-2017 04:34:29 UTC] PHP Fatal error:  Unsupported operand types in /home/softest8bdtask/public_html/hrm/application/modules/leave/controllers/Leave.php on line 35
+[23-Jul-2017 04:34:32 UTC] PHP Fatal error:  Unsupported operand types in /home/softest8bdtask/public_html/hrm/application/modules/leave/controllers/Leave.php on line 35
+[23-Jul-2017 04:35:07 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::row_result() in /home/softest8bdtask/public_html/hrm/application/modules/leave/controllers/Leave.php on line 34
+[23-Jul-2017 04:51:42 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::insert_status() in /home/softest8bdtask/public_html/hrm/application/modules/leave/controllers/Leave.php on line 42
+[23-Jul-2017 06:44:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/softest8bdtask/public_html/hrm/application/modules/circularprocess/views/update_canedu_form.php on line 63
+[23-Jul-2017 06:44:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/softest8bdtask/public_html/hrm/application/modules/circularprocess/views/update_canedu_form.php on line 63
+[23-Jul-2017 06:45:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/softest8bdtask/public_html/hrm/application/modules/circularprocess/views/update_canedu_form.php on line 64
+[23-Jul-2017 06:46:16 UTC] PHP Fatal error:  Call to undefined function end_foreach() in /home/softest8bdtask/public_html/hrm/application/modules/circularprocess/views/update_canedu_form.php on line 50
+[23-Jul-2017 06:46:20 UTC] PHP Fatal error:  Call to undefined function end_foreach() in /home/softest8bdtask/public_html/hrm/application/modules/circularprocess/views/update_canedu_form.php on line 50
+[23-Jul-2017 07:28:25 UTC] PHP Fatal error:  Call to undefined method Candidate_model::upcanedu() in /home/softest8bdtask/public_html/hrm/application/modules/circularprocess/controllers/Candidate.php on line 299
+[23-Jul-2017 07:28:28 UTC] PHP Fatal error:  Call to undefined method Candidate_model::upcanedu() in /home/softest8bdtask/public_html/hrm/application/modules/circularprocess/controllers/Candidate.php on line 299
+[23-Jul-2017 07:29:21 UTC] PHP Fatal error:  Call to undefined method Candidate_model::upcanedu() in /home/softest8bdtask/public_html/hrm/application/modules/circularprocess/controllers/Candidate.php on line 300
+[23-Jul-2017 07:32:55 UTC] PHP Fatal error:  Call to undefined method Candidate_model::upcanedu() in /home/softest8bdtask/public_html/hrm/application/modules/circularprocess/controllers/Candidate.php on line 300
+[01-Aug-2017 04:42:19 UTC] PHP Fatal error:  Cannot redeclare Home_model::july() in /home/softest8bdtask/public_html/hrm/application/modules/dashboard/models/Home_model.php on line 222
+[01-Aug-2017 04:42:36 UTC] PHP Fatal error:  Cannot redeclare Home_model::july() in /home/softest8bdtask/public_html/hrm/application/modules/dashboard/models/Home_model.php on line 222
+[01-Aug-2017 04:42:38 UTC] PHP Fatal error:  Cannot redeclare Home_model::july() in /home/softest8bdtask/public_html/hrm/application/modules/dashboard/models/Home_model.php on line 222
+[01-Aug-2017 10:25:26 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/dashboard/models/Home_model.php on line 84
+[24-Aug-2017 05:43:15 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/softest8bdtask/public_html/hrm/application/config/database.php on line 82
+[24-Aug-2017 05:43:21 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/softest8bdtask/public_html/hrm/application/config/database.php on line 82
+[24-Aug-2017 05:43:38 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/softest8bdtask/public_html/hrm/application/config/database.php on line 82
+[24-Aug-2017 05:43:57 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/softest8bdtask/public_html/hrm/application/config/database.php on line 82
+[24-Aug-2017 05:45:26 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/softest8bdtask/public_html/hrm/application/config/database.php on line 82
+[24-Aug-2017 05:46:19 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/softest8bdtask/public_html/hrm/application/config/database.php on line 82
+[24-Aug-2017 05:46:31 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/softest8bdtask/public_html/hrm/application/config/database.php on line 82
+[24-Aug-2017 05:47:41 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/softest8bdtask/public_html/hrm/application/config/database.php on line 82
+[24-Aug-2017 05:50:26 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/softest8bdtask/public_html/hrm/application/config/database.php on line 82
+[24-Aug-2017 05:52:25 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/softest8bdtask/public_html/hrm/application/config/database.php on line 82
+[24-Aug-2017 05:52:27 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/softest8bdtask/public_html/hrm/application/config/database.php on line 82
+[24-Aug-2017 05:54:11 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/softest8bdtask/public_html/hrm/application/config/database.php on line 82
+[24-Aug-2017 05:54:20 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/softest8bdtask/public_html/hrm/application/config/database.php on line 82
+[24-Aug-2017 05:55:26 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/softest8bdtask/public_html/hrm/application/config/database.php on line 82
+[24-Aug-2017 05:56:12 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/dashboard/models/Evencal_model.php on line 36
+[24-Aug-2017 05:57:13 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/dashboard/models/Evencal_model.php on line 36
+[24-Aug-2017 05:58:18 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/dashboard/models/Evencal_model.php on line 36
+[24-Aug-2017 05:59:48 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/dashboard/models/Evencal_model.php on line 36
+[24-Aug-2017 06:07:00 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/dashboard/models/Evencal_model.php on line 36
+[24-Aug-2017 06:09:18 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/dashboard/models/Evencal_model.php on line 36
+[26-Aug-2017 07:10:27 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/helpers/lang_helper.php on line 34
+[26-Aug-2017 07:15:30 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/helpers/lang_helper.php on line 34
+[26-Aug-2017 07:20:27 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/helpers/lang_helper.php on line 34
+[26-Aug-2017 07:20:29 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/helpers/lang_helper.php on line 34
+[26-Aug-2017 08:45:27 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/helpers/lang_helper.php on line 34
+[26-Aug-2017 09:50:28 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/dashboard/models/Evencal_model.php on line 36
+[26-Aug-2017 11:40:27 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/dashboard/models/Evencal_model.php on line 47
+[26-Aug-2017 11:40:27 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/dashboard/models/Evencal_model.php on line 25
+[26-Aug-2017 11:40:27 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/dashboard/models/Evencal_model.php on line 36
+[26-Aug-2017 11:40:28 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/dashboard/models/Evencal_model.php on line 58
+[26-Aug-2017 11:45:28 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/dashboard/models/Evencal_model.php on line 8
+[27-Aug-2017 04:00:30 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/dashboard/models/Evencal_model.php on line 25
+[27-Aug-2017 04:00:31 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/dashboard/models/Evencal_model.php on line 47
+[27-Aug-2017 04:00:31 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/dashboard/models/Evencal_model.php on line 36
+[27-Aug-2017 04:00:31 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/softest8bdtask/public_html/hrm/application/modules/dashboard/models/Evencal_model.php on line 58
+[27-Aug-2017 06:00:28 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/softest8bdtask/public_html/hrm/system/database/DB_driver.php on line 1324
+[27-Aug-2017 06:44:10 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/softest8bdtask/public_html/hrm/application/modules/dashboard/views/home/index.php on line 193
+[27-Aug-2017 06:44:15 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/softest8bdtask/public_html/hrm/application/modules/dashboard/views/home/index.php on line 193
+[27-Aug-2017 07:30:29 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm/application/helpers/lang_helper.php on line 34
+[03-Nov-2018 04:43:12 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/softest8bdtask/public_html/hrm_main/application/helpers/lang_helper.php on line 34

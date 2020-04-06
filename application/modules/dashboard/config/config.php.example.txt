@@ -1,0 +1,16 @@
+<?php
+// module directory name
+$HmvcConfig['your_module']["_title"]     = "Your Module";
+$HmvcConfig['your_module']["_directory"] = "your_module";
+$HmvcConfig['your_module']["_image"]     = "application/modules/your_module/assets/images/thumbnail.jpg";
+$HmvcConfig['your_module']["_description"] = "Simple Your Module";
+
+
+// register your module tables
+// only register tables are imported while installing the module
+$HmvcConfig['your_module']['_database'] = true;
+$HmvcConfig['your_module']["_tables"] = array( 
+	'acc_account',
+	'acc_bank',
+	'acc_companyx', 
+);
